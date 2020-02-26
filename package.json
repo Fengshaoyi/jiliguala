@@ -1,0 +1,23 @@
+{
+  "name": "jiliguala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fengshaoyi/jiliguala.git"
+  },
+  "keywords": [],
+  "author": "feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fengshaoyi/jiliguala/issues"
+  },
+  "homepage": "https://github.com/Fengshaoyi/jiliguala#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
